@@ -1,7 +1,3 @@
-Here's a professional and structured README for your AI-enabled car parking system project:
-
----
-
 # AI-Enabled Car Parking System Using OpenCV  
 
 An innovative project that leverages computer vision and artificial intelligence to automate and optimize car parking. This system uses OpenCV for real-time image processing and object detection, aiming to transform traditional parking management by addressing challenges like limited parking spaces, congestion, and inefficient allocation.  
